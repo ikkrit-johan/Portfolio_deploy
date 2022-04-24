@@ -1,27 +1,32 @@
 import React from 'react';
-import Header from './components/header/Header';
-import Nav from './components/nav/Nav';
-import About from './components/about/About';
-import Experience from './components/experience/Experience';
-import Services from './components/services/Services';
-import Portfolio from './components/portfolio/Portfolio';
-import Testomials from './components/testimonials/Testimonials';
-import Contact from './components/contact/Contact';
-import Footer from './components/footer/Footer';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from './pages/Home';
+import SymfonyProject from './pages/symfonyProject/SymfonyProject';
+import ReactProject from './pages/reactProject/ReactProject';
+import Ppe from './pages/ppe/Ppe';
+import Stage from './pages/stage/Stage';
+import Game from './pages/game/Game';
+import Divers from './pages/divers/Divers';
+import NotFound from './pages/notFound/NotFound';
+
+
 
 const App = () => {
   return (
     <>
-        <Header />
-        <Nav />
-        <About />
-        <Experience />
-        <Services />
-        <Portfolio />
-        <Testomials />
-        <Contact />
-        <Footer />
-    </>
+      <BrowserRouter>
+        <Routes>
+           <Route path="/" element={<Home />} />
+           <Route path="/symfonyproject" element={<SymfonyProject />} />
+           <Route path="/reactproject" element={<ReactProject />} />
+           <Route path="/ppe" element={<Ppe />} />
+           <Route path="/stage" element={<Stage />} />
+           <Route path="/game" element={<Game />} />
+           <Route path="/divers" element={<Divers />} />
+           <Route path="*" element={<NotFound />} />      
+       </Routes>
+    </BrowserRouter>
+      </>
   )
 }
 

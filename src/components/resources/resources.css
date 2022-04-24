@@ -1,4 +1,4 @@
-.container.testimonials__container {
+.container.resources__container {
     width: 40%;
     padding-bottom: 4rem;
 }
@@ -12,7 +12,7 @@
     border: 0.2rem solid var(--color-primary);
 }
 
-.testimonial {
+.resource {
     background: var(--color-gray);
     text-align: center;
     padding: 2rem;
@@ -36,7 +36,7 @@
 
 
 @media screen and (max-width: 1024px) {
-    .container.testimonials__container {
+    .container.resources__container {
         width: 60%;
     }
 }
@@ -45,7 +45,7 @@
 
 
 @media screen and (max-width: 600px) {
-    .container.testimonials__container {
+    .container.resources__container {
         width: var(--container-width-sm);
     }
     .client__review {

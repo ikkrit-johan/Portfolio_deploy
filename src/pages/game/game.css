@@ -1,0 +1,8 @@
+.games__container {
+    gap: 3rem;
+
+}
+
+.game__title {
+    text-align: center;
+}

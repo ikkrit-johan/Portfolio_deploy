@@ -55,6 +55,10 @@ textarea {
     color: var(--color-white);
 }
 
+button:hover {
+    color: var(--color-primary) !important;
+}
+
 /* ======================= MEDIA QUERIES 1024 ============================== */
 
 
