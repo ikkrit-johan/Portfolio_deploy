@@ -6,6 +6,9 @@ import AVTR3 from '../../assets/avatar3.jpg';
 import AVTR4 from '../../assets/avatar4.jpg';
 import AVTR5 from '../../assets/avatar5.png';
 import AVTR6 from '../../assets/avatar6.jpg';
+import AVTR7 from '../../assets/avatar7.jpg';
+import AVTR8 from '../../assets/avatar8.jpg';
+import AVTR9 from '../../assets/avatar9.jpg';
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -47,6 +50,18 @@ const data = [
     avatar: AVTR6,
     names: 'Nouvelle Techno',
     review: "Développeur / Intégrateur web, formateur en création de sites web.Vous trouverez sur cette chaine des sessions de live coding sur des sujets proposés par les abonnés."
+  },{
+    avatar: AVTR7,
+    names: 'Le Designer du Web',
+    review: "Retrouve ici ta dose de développement Web, entrepreneuriat, UX/UI, référencement et bien d'autres choses !."
+  },{
+    avatar: AVTR8,
+    names: 'From Scratch',
+    review: "Ceux qui ne deviendront pas développeur sont ceux qui abandonnent."
+  },{
+    avatar: AVTR9,
+    names: 'Online Tutorials',
+    review: "Online Tutorials is a channel for learning Complete responsive website design, Creative CSS animation and Hover Effects,Amazing Vanilla Javascript projects, creative UX and UI Design using Html and CSS and much more... Htm5, CSS3, Javascript,jQuery,Bootstrap, photoshop, Website Design."
   }
 ];
 

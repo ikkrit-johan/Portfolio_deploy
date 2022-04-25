@@ -31,14 +31,18 @@ const About = () => {
 
             <article className='about__card'>
               <SiKnowledgebase className='about__icon'/>
-              <h5>Mes Connaissances</h5>
-              <small>En formation</small>
+              <h5>Cuisinier</h5>
+              <h5>Technicien de Maintenance</h5>
+              <small>BAC Professionnel</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
-              <h5>Projets</h5>
-              <small>En formation</small>
+              <h5>Loisirs</h5>
+              <small>Cinema</small><br />
+              <small>Jeux Videos</small><br />
+              <small>Lecture</small><br />
+              <small>VR</small>
             </article>
 
           </div>

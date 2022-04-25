@@ -1,0 +1,20 @@
+.section__symfony-project {
+    text-align: center;
+}
+
+.symfony__intro--present {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid var(--color-primary);
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.symfony__intro--img img{
+    height: 400px;
+    width: 360px;
+    border-radius: 5px;
+    border: 1px solid var(--color-primary);
+
+}
