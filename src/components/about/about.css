@@ -69,6 +69,10 @@
     text-align: justify;
 }
 
+.right {
+    margin-left: 20px;
+}
+
 /* ======================= MEDIA QUERIES 1024 ============================== */
 
 

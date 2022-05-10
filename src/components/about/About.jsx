@@ -52,7 +52,11 @@ const About = () => {
             VOUS Y RETROUVEREZ L'ENSEMBLE DE MES RÉALISATIONS QUE J'AI PU EFFECTUER
             DURANT MON BTS SIO OPTION SLAM
           </p>
+          <p>
+            Ce portfolio a pour but de vous présenter mes travaux et mon parcours dans le numérique.
+          </p>
           <a href="#contact" className='btn btn-primary'>Contacter moi</a>
+          <a href="https://diplomeo.com/trouver-bts-sio" target='_blank' className='btn btn-primary right' rel="noreferrer">Le BTS SIO</a>
         </div>
       </div>
     </section>

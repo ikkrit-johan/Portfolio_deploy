@@ -1,0 +1,51 @@
+.stage__container {
+    text-align: center;
+    position: relative;
+}
+
+.stage__logo img{
+    height: 400px;
+    width: auto;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.stage__vaya img{
+    width: 40%;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.stage__intro--present {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.stage__icon {
+    width: 70%;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    background: var(--color-gray);
+    border-radius: 10px;
+    margin: 40px auto;
+    border: 1px solid transparent;
+}
+
+.stage__icon:hover {
+    background: #000;
+    border: 1px solid var(--color-primary);
+}
+
+.stage__intro--present img {
+    width: 50%;
+    margin: auto;
+}
+
+.prim {
+    margin-top: 15px;
+}

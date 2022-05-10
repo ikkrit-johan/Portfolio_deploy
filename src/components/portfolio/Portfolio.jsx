@@ -1,55 +1,55 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.png';
+import IMG4 from '../../assets/portfolio1.jpg';
+import IMG6 from '../../assets/portfolio5.jpg';
+import IMG5 from '../../assets/portfolio2.png';
 import IMG3 from '../../assets/portfolio3.jpg';
-import IMG4 from '../../assets/portfolio4.jpg';
-import IMG5 from '../../assets/portfolio5.jpg';
-import IMG6 from '../../assets/portfolio6.jpg';
+import IMG1 from '../../assets/portfolio4.jpg';
+import IMG2 from '../../assets/portfolio6.jpg';
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Projet Symfony',
+    title: 'Stages',
     github: 'https://github.com',
-    page: "/symfonyproject"
+    page: "#stage"
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Projet React',
+    title: 'Projet Jeux',
     github: 'https://github.com',
-    page: "/reactproject"
+    page: "#game"
   },
   {
     id: 3,
     image: IMG3,
     title: 'Projet PPE',
     github: 'https://github.com',
-    page: "/ppe"
+    page: "#ppe"
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Projet Stage',
+    title: 'Projet Symfony',
     github: 'https://github.com',
-    page: "/stage"
+    page: "#symfonyproject"
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Projet Jeux',
+    title: 'Projet React',
     github: 'https://github.com',
-    page: "/game"
+    page: "#reactproject"
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Projet Divers',
+    title: 'Divers',
     github: 'https://github.com',
-    page: "/divers"
+    page: "#divers"
   },
 
 ]
@@ -58,7 +58,7 @@ const Portfolio = () => {
   return (
     <section id="portfolio">
       <h5>Mes Projets récents</h5>
-      <h2>Portfolio</h2>
+      <h2>Portefolio</h2>
       
       <div className="container portfolio__container">
         {

@@ -10,7 +10,7 @@ const Footer = () => {
       <h2 className='footer__logo'>IKKRIT</h2>
 
       <ul className='permalinks'>
-        <li><a href="#">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="#about">A propos de moi</a></li>
         <li><a href="#experience">Experiences</a></li>
         <li><a href="#services">R&D</a></li>
@@ -20,9 +20,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookSquare /></a>
-        <a href="https://discord.com"><FaDiscord /></a>
-        <a href="https://linkedin.com"><BsLinkedin /></a>
+        <a href="https://facebook.com" target='_blank' rel="noreferrer"><FaFacebookSquare /></a>
+        <a href="https://discord.com" target='_blank' rel="noreferrer"><FaDiscord /></a>
+        <a href="https://linkedin.com" target='_blank' rel="noreferrer"><BsLinkedin /></a>
       </div>
 
       <div className="footer__copyright">
