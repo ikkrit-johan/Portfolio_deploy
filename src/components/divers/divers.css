@@ -1,0 +1,53 @@
+.divers__container {
+    max-width: 1300px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.divers__logo img{
+    height: 400px;
+    width: auto;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.divers__vaya img{
+    width: 95%;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.divers__intro--present {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.divers__intro--present h4 {
+    width: 96%;
+    font-size: 1.1rem;
+    padding: 20px;
+    border: 1px solid var(--color-primary);
+    margin: 15px auto;
+    border-radius: 10px;
+
+}
+
+.divers__intro--para {
+    width: 95%;
+    margin: 40px auto 20px;
+    padding: 20px;
+    border: 1px solid transparent;
+    background: var(--color-gray);
+    border-radius: 10px;
+    line-height: 2rem;
+}
+
+.divers__intro--para:hover {
+    border: 1px solid var(--color-primary);
+    background: var(--color-black);
+}
+
