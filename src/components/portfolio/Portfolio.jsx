@@ -49,7 +49,7 @@ const data = [
     image: IMG6,
     title: 'Divers',
     github: 'https://github.com',
-    page: "#divers"
+    page: "#resources"
   },
 
 ]

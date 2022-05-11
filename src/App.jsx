@@ -11,7 +11,6 @@ import Resources from './components/resources/Resources';
 import SymfonyProject from './components/symfonyProject/SymfonyProject';
 import ReactProject from './components/reactProject/ReactProject';
 import Ppe from './components/ppe/Ppe';
-import Divers from './components/divers/Divers';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 
@@ -32,7 +31,6 @@ const App = () => {
           <SymfonyProject />
           <ReactProject />
           <Ppe />
-          <Divers />
           <Resources />
           <Contact />
           <Footer /> 

@@ -45,9 +45,6 @@ const Nav = () => {
       <a href="#reactproject" onClick={() => setActiveNav('#symfonyProject')} className={activeNav === '#reactproject' ? 'active' : ''}>
         <FaReact />
       </a>
-      <a href="#divers" onClick={() => setActiveNav('#symfonyProject')} className={activeNav === '#divers' ? 'active' : ''}>
-        <GiDivergence />
-      </a>
       <a href="#resources" onClick={() => setActiveNav('#resources')} className={activeNav === '#resources' ? 'active' : ''}>
         <BiMessageSquareDetail />
       </a>
