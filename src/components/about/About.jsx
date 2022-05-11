@@ -32,6 +32,7 @@ const About = () => {
             <article className='about__card'>
               <SiKnowledgebase className='about__icon'/>
               <h5>Cuisinier</h5>
+              <h5>---------</h5>
               <h5>Technicien de Maintenance</h5>
               <small>BAC Professionnel</small>
             </article>
@@ -51,9 +52,6 @@ const About = () => {
             Ce portfolio fut réalisé durant mon année de BTS SIO (Services Informatiques aux Organisations) Option SLAM (Développement d'applications).<br /><br />
             VOUS Y RETROUVEREZ L'ENSEMBLE DE MES RÉALISATIONS QUE J'AI PU EFFECTUER
             DURANT MON BTS SIO OPTION SLAM
-          </p>
-          <p>
-            Ce portfolio a pour but de vous présenter mes travaux et mon parcours dans le numérique.
           </p>
           <a href="#contact" className='btn btn-primary'>Contacter moi</a>
           <a href="https://diplomeo.com/trouver-bts-sio" target='_blank' className='btn btn-primary right' rel="noreferrer">Le BTS SIO</a>
