@@ -22,7 +22,7 @@ const Footer = () => {
       <div className="footer__socials">
         <a href="https://facebook.com" target='_blank' rel="noreferrer"><FaFacebookSquare /></a>
         <a href="https://discord.com" target='_blank' rel="noreferrer"><FaDiscord /></a>
-        <a href="https://linkedin.com" target='_blank' rel="noreferrer"><BsLinkedin /></a>
+        <a href="https://fr.linkedin.com/in/johan-carrion-7a9832236?trk=people-guest_people_search-card" target='_blank' rel="noreferrer"><BsLinkedin /></a>
       </div>
 
       <div className="footer__copyright">

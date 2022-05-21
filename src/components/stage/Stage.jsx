@@ -27,17 +27,16 @@ const Stage = () => {
                             <p>- Installation est configuration de la base de données (Wamp, PHP admin)</p>
                             <p>- Mise en place de sauvegarde system externe, versioning du projet avec GIT/Bracket</p>
                             <p>- La gestion du materiel etait sous ma responsabilité, ainsi que leurs securité</p>
-                            <p>- Quelques interventions, remplacement d'une carte graphique ( MSI 3070)</p>
-                            <p>- Installer et configuration d'un eco system VR (Oculus S)</p>
+                            <p>- Quelques interventions, remplacement d'une carte graphique, et optimiser systeme de refroidisement</p>
+                            <p>- Installation et configuration d'un ecosystem VR (Oculus S)</p>
                             
 
                             <h4>Client</h4>
                             <p>- Mise en relation avec le client</p>
-                            <p>- La cliente est une illustratrice</p>
                             <p>- Analyse de la demande client.</p>
-                            <p>- Site pour mettre en avant ces oeuvres</p>
                             <p>- Analyse des moyens a mettre en place.</p>
-                            <p>- Maquette fonctionnel du projet sous Figma à partir de la demande et du style rechercher</p>
+                            <p>- Maquette fonctionnel du projet sous Figma à partir de la demande client</p>
+                            <p>- Installation et configuration d'une tablette wacom cintiq pro 24</p>
 
                             <p>- Analyse des technologie employer</p>
                             <p>- le projet est developper avec le Framework Symfony</p>
@@ -49,6 +48,7 @@ const Stage = () => {
                             <p>- Travail en équipe suivant la méthode Agile, en céréromonies SCRUM .</p>
                             <p>- Mise en place d’un Kanban ( Trello ).</p>
                             <p>- Gestion des versions du projet avec Git / Bitbucket.</p>
+                            <p>- Développement et intégration du projet.</p>
 
                             <h4>Formation</h4>
                             <p>- Formation au fonctionnement des Framework.</p>

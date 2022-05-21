@@ -43,10 +43,16 @@ const Ppe = () => {
                             <p>Mise en condition réel</p>
                             <p>Demande client</p>
                             <p>Implication personnel</p>
-                            <p>@Alexy</p>
-                            <p>@Solene</p>
-                            <p>@Ange</p>
-                            <p>@Johan</p>
+                            <p>Mettre en place environnement de travail logiciels et matériels.</p>
+                            <p>Réalisation de maquette fonctionnelle FIGMA.</p>
+                            <p>Mise en place BDD</p>
+                            <p>Mise en place de la structure MVC.</p>
+                            <p>@Solene, @Alexy, @Ange, @Johan</p>
+                            <p>Analyse des moyens a mettre en place.</p>
+                            <p>Analyse des technologie employer.</p>
+                            <p>Analyse des demandes équipe et adaptation.</p>
+                            <p>Tests d’intégration.</p>
+                            <p></p>
                         </div>
                     </div>
 

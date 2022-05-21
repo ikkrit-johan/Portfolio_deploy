@@ -42,7 +42,7 @@ const Contact = () => {
             <AiOutlineLinkedin className='contact__option-icon' />
             <h4>Linkedin</h4>
             <h5>Johan Carrion</h5>
-            <a href="https://discord.com/" target="_blank" rel="noreferrer">Cliquer ici</a>
+            <a href="https://fr.linkedin.com/in/johan-carrion-7a9832236?trk=people-guest_people_search-card" target="_blank" rel="noreferrer">Cliquer ici</a>
           </article>
 
         </div>

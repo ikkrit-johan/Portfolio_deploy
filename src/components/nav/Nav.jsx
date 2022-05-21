@@ -30,20 +30,23 @@ const Nav = () => {
       <a href="#services" onClick={() => setActiveNav('#services')} className={activeNav === '#services' ? 'active' : ''}>
         <RiServiceLine />
       </a>
-      <a href="#portfolio" onClick={() => setActiveNav('#symfonyProject')} className={activeNav === '#portfolio' ? 'active' : ''}>
+      <a href="#portfolio" onClick={() => setActiveNav('#portfolio')} className={activeNav === '#portfolio' ? 'active' : ''}>
         <FaImages />
       </a>
-      <a href="#stage" onClick={() => setActiveNav('#symfonyProject')} className={activeNav === '#stage' ? 'active' : ''}>
+      <a href="#stage" onClick={() => setActiveNav('#stage')} className={activeNav === '#stage' ? 'active' : ''}>
         <GiStarFormation />
       </a>
-      <a href="#game" onClick={() => setActiveNav('#symfonyProject')} className={activeNav === '#game' ? 'active' : ''}>
+      <a href="#game" onClick={() => setActiveNav('#game')} className={activeNav === '#game' ? 'active' : ''}>
         <BiGame />
       </a>
-      <a href="#symfonyproject" onClick={() => setActiveNav('#symfonyProject')} className={activeNav === '#symfonyproject' ? 'active' : ''}>
+      <a href="#symfonyproject" onClick={() => setActiveNav('#symfonyproject')} className={activeNav === '#symfonyproject' ? 'active' : ''}>
         <FaSymfony />
       </a>
-      <a href="#reactproject" onClick={() => setActiveNav('#symfonyProject')} className={activeNav === '#reactproject' ? 'active' : ''}>
+      <a href="#reactproject" onClick={() => setActiveNav('#reactproject')} className={activeNav === '#reactproject' ? 'active' : ''}>
         <FaReact />
+      </a>
+      <a href="#ppe" onClick={() => setActiveNav('#ppe')} className={activeNav === '#ppe' ? 'active' : ''}>
+        <GiStarFormation />
       </a>
       <a href="#resources" onClick={() => setActiveNav('#resources')} className={activeNav === '#resources' ? 'active' : ''}>
         <BiMessageSquareDetail />
