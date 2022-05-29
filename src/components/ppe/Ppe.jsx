@@ -39,18 +39,20 @@ const Ppe = () => {
                             <img src={IMG02} alt="" />
                         </div>
                         <div className="ppe__intro--para">
-                            <p>Projet de groupe</p>
-                            <p>Mise en condition réel</p>
-                            <p>Demande client</p>
-                            <p>Implication personnel</p>
-                            <p>Mettre en place environnement de travail logiciels et matériels.</p>
-                            <p>Réalisation de maquette fonctionnelle FIGMA.</p>
-                            <p>Mise en place BDD</p>
-                            <p>Mise en place de la structure MVC.</p>
+                            <p>Projet de groupe.</p>
+                            <p>Membres : </p>
                             <p>@Solene, @Alexy, @Ange, @Johan</p>
-                            <p>Analyse des moyens a mettre en place.</p>
-                            <p>Analyse des technologie employer.</p>
-                            <p>Analyse des demandes équipe et adaptation.</p>
+                            <br />
+                            <p>Mise en condition réelle.</p>
+                            <p>Demande client.</p>
+                            <p>Implication personnelle.</p>
+                            <p>Mettre en place d'un environnement de travail logiciels et matériels.</p>
+                            <p>Réalisation de maquettes fonctionnelles FIGMA.</p>
+                            <p>Mise en place BDD.</p>
+                            <p>Mise en place de la structure MVC.</p>
+                            <p>Analyse des moyens à mettre en place.</p>
+                            <p>Analyse des technologies employées.</p>
+                            <p>Analyse des demandes de l'équipe et adaptation.</p>
                             <p>Tests d’intégration.</p>
                             <p></p>
                         </div>

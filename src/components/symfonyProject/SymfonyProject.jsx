@@ -37,13 +37,14 @@ const SymfonyProject = () => {
                             <img src={IMG02} alt="" />
                         </div>
                         <div className="symfony__intro--para">
-                            <p>La cliente est une illustratrice qui a besoin d'un site vitrine de ses oeuvres</p>
-                            <p>Un portefolio pour les dessins et les livres</p>
-                            <p>Une page de presentation</p>
-                            <p>Un market avec des liens sur divers sites marchands</p>
-                            <p>Un formulaire de contact</p>
-                            <p>Une interface simple pour la gestion des images</p>
-                            <p>Le site doit être classe et simple d'utlisation !</p>
+                            <p>La cliente est une illustratrice qui a besoin : </p>
+                            <p>- D'un site vitrine de ses oeuvres</p>
+                            <p>- Un portefolio pour les dessins et les livres</p>
+                            <p>- Une page de presentation</p>
+                            <p>- Un market avec des liens sur divers sites marchands</p>
+                            <p>- Un formulaire de contact</p>
+                            <p>- Une interface simple pour la gestion des images</p>
+                            <p>Le site doit être esthetique et simple d'utlisation !</p>
                         </div>
                     </div>
 

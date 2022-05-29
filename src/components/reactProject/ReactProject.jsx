@@ -34,19 +34,18 @@ const SymfonyProject = () => {
                 <div className="react__intro">
 
                     <div className="react__intro--present">
-                        <h4>Pour mon deuxieme stage, j'ai eu comme mission de me familiariser avec le framework React.</h4>
+                        <h4>Pour mon deuxième stage, j'ai eu comme mission de me familiariser avec le framework React.</h4>
                         <div className="react__vaya">
                             <img src={IMG02} alt="" />
                         </div>
                         <div className="react__intro--para">
-                            <p>Amelioration de mon niveau JavaScript</p>
-                            <p>Initiation avec la documentation React</p>
-                            <p>Divers missions de mon formateur en React</p>
-                            <p>Decouverte du JSX</p>
-                            <p>Decouverte de TypeScript</p>
-                            <p>Initiation au SASS</p>
-                            <p>Divers tutorials en formation personnel...</p>
-                            <p>...Comme ce portefolio conçu avec React !</p>
+                            <p>Amelioration de mon niveau JavaScript.</p>
+                            <p>Initiation avec la documentation React.</p>
+                            <p>Divers missions de mon formateur en React.</p>
+                            <p>Decouverte du JSX.</p>
+                            <p>Decouverte de TypeScript.</p>
+                            <p>Initiation au SASS.</p>
+                            <p>Divers tutoriels en formation personnelle... Comme ce portfolio conçu avec React !</p>
                         </div>
                     </div>
 

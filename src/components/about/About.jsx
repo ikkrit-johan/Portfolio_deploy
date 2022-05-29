@@ -48,10 +48,10 @@ const About = () => {
 
           </div>
           <p>
-            Johan Carrion 40 ans et je suis actuellement en formation au Greta de Saint Malo.
-            Ce portfolio fut réalisé durant mon année de BTS SIO (Services Informatiques aux Organisations) Option SLAM (Développement d'applications).<br /><br />
+            Johan Carrion, 40 ans, actuellement en formation au Greta de Saint Malo.
+            Ce portfolio a été réalisé durant mon année de BTS SIO (Services Informatiques aux Organisations) Option SLAM (Développement d'applications).<br /><br />
             VOUS Y RETROUVEREZ L'ENSEMBLE DE MES RÉALISATIONS QUE J'AI PU EFFECTUER
-            DURANT MON BTS SIO OPTION SLAM
+            DURANT MON BTS SIO OPTION SLAM.
           </p>
           <a href="#contact" className='btn btn-primary'>Contacter moi</a>
           <a href="https://diplomeo.com/trouver-bts-sio" target='_blank' className='btn btn-primary right' rel="noreferrer">Le BTS SIO</a>

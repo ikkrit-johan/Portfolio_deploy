@@ -33,7 +33,7 @@ const Game = () => {
                             <p>Jeu du pendu en JS</p>
                             <p>Acey en python</p>
                             <p>Crap en python</p>
-                            <p>Divers tuto de jeux</p>
+                            <p>Divers tutoriels de jeux</p>
                         </div>
                     </div>
 
@@ -51,7 +51,7 @@ const Game = () => {
                     </div>
 
                     <div className="gallery__title">
-                        <h2>Images des projet</h2>
+                        <h2>Images des projets</h2>
                     </div>
 
                     <div className="game__gallery">
